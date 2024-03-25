@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+       <title>Assignment 16</title>
+</head>
+<body>
+    <h2>Header and Footer and other Tags</h2>
+    <header>
+        <h1>This is Header Tag</h1>
+        <p>Welcome GUYSSSS....</p>
+    </header>
+    <nav>
+        <a href="/html/">Header</a> |
+        <a href="/css/">Nav</a> |
+        <a href="/js/">article</a> |
+        <a href="/jquery/">footer</a>
+    </nav>
+    <main>
+        <h1>This is main tag</h1>
+        <p> Hello Guys......</p>
+
+        <article>
+            <h2>This is article tag</h2>
+            <p>I am J Kirankumar from kurnool.Currently i am pursuing my Degree Final Year with a specialization of
+                 BSC-Computer Science in St.Josephs Degree College.</p>
+        </article>
+    </main>
+    <section>
+        <h2>This is section tag</h2>
+        <p>Myself Strong adility to Communication with Colleagues and to express my ideas clearly.I am very honest and
+            interested to learn new technologies.</p>
+    </section>
+</body>
+</html>
